@@ -1,4 +1,4 @@
-<h1 align="center"> ɢɪғᴛᴇᴅ ᴍᴅ Version 2.5.0 </h1> 
+<h1 align="center"> 𝐏𝐑𝐎𝐁𝐎𝐗 Version 1.5.0 </h1> 
  <br>
 
 
@@ -39,11 +39,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md"><b>Gifted-Md V.2.5.0</b></a> Support Deploy On...
+  <a href="https://github.com/Botllee/PROBOX"><b>𝐏𝐑𝐎𝐁𝐎𝐗 V.1.5.0</b></a> Support Deploy On...
 </p>
 
 <p align="center">
-  <a href="https://github.com/mouricedevs/Gifted-Md/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
+  <a href="https://github.com/Botllee/PROBOX/blob/main/temp/deploy-on-vps.md"><img src="https://img.shields.io/badge/self hosting-3d1513?style=for-the-badge&logo=serverless&logoColor=FD5750"></a>
   <a href="https://railway.app/template/GZOvIe?referralCode=wVDLrh"><img src="https://img.shields.io/badge/railway-3e164f?style=for-the-badge&logo=railway&logoColor=0B0D0E"></a>
 </p>
 <p align="center">
@@ -54,11 +54,11 @@
 <p align="center">
   <a href="https://youtu.be/3NdJb6_1cJM"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
-<p align="center">Need help? please create an <a href="https://github.com/mouricedevs/Gifted-Md/issues">issue</a></p>
+<p align="center">Need help? please create an <a href="https://github.com/Botllee/PROBOX/issues">issue</a></p>
 
 
 
-## Some of Gifted-Md Bot Games:
+## Some of 𝐏𝐑𝐎𝐁𝐎𝐗 Bot Games:
 ---
 1. ***Connect Four Game(cfg).***
 2.  ***Tic Tac Toe.***
@@ -72,9 +72,9 @@
 
 ---
 
- <h3>Gifted-MD V.2.5.0 Stats</h3>
+ <h3>𝐏𝐑𝐎𝐁𝐎𝐗 V.1.5.0 Stats</h3>
 
-![Giftd-mdV2 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
+![𝐏𝐑𝐎𝐁𝐎𝐗 Stats](https://github-readme-stats.vercel.app/api/pin/?username=mouricedevs&repo=Gifted-Md&show_owner=true&theme=dark)
 
 
 
@@ -83,7 +83,7 @@
    
 ## Gifted-Md V.2.5.0 Deployment Methods
 ---
-1.  ***Fork Repo [`CLICK HERE`](https://github.com/mouricedevs/Gifted-Md/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
+1.  ***Fork Repo [`CLICK HERE`](https://github.com/Botllee/PROBOX/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
 3. ***Deploy on [`HEROKU`](https://deploy-gifted-md.vercel.app/)***
 4.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
@@ -100,7 +100,7 @@
 
 
 ### I Am
-- [Gifted Tech](https://github.com/mouricedevs) 
+- [Gifted Tech](https://github.com/Botllee) 
 
 ---
 ### Credits to:
@@ -116,7 +116,7 @@
 </h2>
    
 ## 
-- *Gifted-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *𝐏𝐑𝐎𝐁𝐎𝐗 is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Gifted-Md at your own risk by keeping this warning in mind.*
+- *Use 𝐏𝐑𝐎𝐁𝐎𝐗 at your own risk by keeping this warning in mind.*
 - [`Deploy on Heroku`](https://deploy-gifted-md.vercel.app)
