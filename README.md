@@ -81,7 +81,7 @@
 
     
    
-## Gifted-Md V.2.5.0 Deployment Methods
+## 𝐏𝐑𝐎𝐁𝐎𝐗 V 1.5.0 Deployment Methods
 ---
 1.  ***Fork Repo [`CLICK HERE`](https://github.com/Botllee/PROBOX/fork) (A MUST) and `Star ⭐ Repository` for Courage.***
 2.  ***Get `SESSION ID`  [`BY CLICKING HERE`](https://session.giftedtechnexus.co.ke) Supports Both QR SCAN And Pair Code And then `Go-to Whatapp>Three dots>Linked Devices`***
@@ -100,7 +100,7 @@
 
 
 ### I Am
-- [Gifted Tech](https://github.com/Botllee) 
+- [Botllee](https://github.com/Botllee) 
 
 ---
 ### Credits to:
