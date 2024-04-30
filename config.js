@@ -2,9 +2,9 @@
 *                                                                 
   * @project_name : 𝐏𝐑𝐎𝐁𝐎𝐗
    * @author : EUSEBIUS Info
-   * @youtube : https://www.youtube.com/@giftedtechnexus
-   * @description : Gifted-Md ,A Multi-functional whatsapp user bot.
-   * @version 2.5.0
+   * @youtube : https://www.youtube.com/@geeshoppers
+   * @description : 𝐏𝐑𝐎𝐁𝐎𝐗,A Multi-functional whatsapp user bot.
+   * @version 1.5.0
 *
 * 
    * Created By EUSEBIUS Info.
