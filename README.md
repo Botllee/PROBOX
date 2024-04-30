@@ -3,21 +3,21 @@
 
 
 
-<p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ v2.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing 𝐏𝐑𝐎𝐁𝐎𝐗 v1.5.0, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="https://github.com/mouricedevs/Gifted-Md">
-    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Gifted docs" height="300" src="https://telegra.ph/file/ad008a343b1784425b584.jpg">
   </a>
 </p>
     
    
    
 <p align="center">
-  <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
+  <a href="https://wa.me/+254710415721?text=Hi+Bro--+I+Need+Help.+I've+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ v.2.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
+  <a aria-label="𝐏𝐑𝐎𝐁𝐎𝐗 v.1.5.0 is free to use" href="https://github.com/mouricedevs/Gifted-Md" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -29,7 +29,7 @@
 
 
 
-<p align="center"> ɢɪғᴛᴇᴅ ᴍᴅ V.2.5.0 uses
+<p align="center"> 𝐏𝐑𝐎𝐁𝐎𝐗 V.1.5.0 uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
